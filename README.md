@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-other/voice input output/README.md → Audio_Scripts/voice input output/README.md
+
